@@ -1,5 +1,6 @@
 {
   "name": "booklist",
+  "homepage": "https://MonicaOduor.github.io/booklist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -21,7 +22,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -42,6 +45,7 @@
     ]
   },
   "devDependencies": {
-    "@material-ui/core": "^5.0.0-beta.5"
+    "@material-ui/core": "^5.0.0-beta.5",
+    "gh-pages": "^4.0.0"
   }
 }
