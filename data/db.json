@@ -1,0 +1,33 @@
+{
+  "books": [
+    {
+      "title": "Honey and Spice",
+      "author": "Bolu Babalola",
+      "genre": "Fiction",
+      "description": "Sharp-tongued (and secretly soft-hearted) Kiki Banjo has just made a huge mistake. As an expert in relationship-evasion and the host of the popular student radio show Brown Sugar, she is made it her mission to make sure the women of the African-Caribbean Society at Whitewell University do not fall into the mess of “situationships”, players, and heartbreak. ",
+      "id": 1
+    },
+    {
+      "title": "Song of Achilles",
+      "author": "Madeleine Miller",
+      "genre": "History",
+      "description": "Achilles, the best of all the Greeks, son of the cruel sea goddess Thetis and the legendary king Peleus, is strong, swift, and beautiful, irresistible to all who meet him. Patroclus is an awkward young prince, exiled from his homeland after an act of shocking violence. Brought together by chance, they forge an inseparable bond, despite risking the gods' wrath.",
+      "id": 2
+    },
+    {
+      "title": "Death of Vivek Oji",
+      "author": "Akwaekwe Emezi",
+      "genre": "Fiction",
+      "description": "Raised by a distant father and an understanding but overprotective mother, Vivek suffers disorienting blackouts, moments of disconnection between self and surroundings. As adolescence gives way to adulthood, Vivek finds solace in friendships with the warm, boisterous daughters of the Nigerwives, foreign-born women married to Nigerian men.",
+      "id": 3
+    },
+    {
+      "title": "Convenience Store Woman",
+      "genre": "Fiction",
+      "author": "Sayaka Murata",
+      "description": "A brilliant depiction of an unusual psyche and a world hidden from view, Convenience Store Woman is an ironic and sharp-eyed look at contemporary work culture and the pressures to conform, as well as a charming and completely fresh portrait of an unforgettable heroine.",
+      "category": "fiction",
+      "id": 4
+    }
+  ]
+}
