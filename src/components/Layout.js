@@ -16,7 +16,7 @@ export default function Layout({ children }) {
     {
       text: "My Books",
       icon: <SubjectOutlined color="secondary" />,
-      path: "/",
+      path: "/books",
     },
     {
       text: "Add Book",

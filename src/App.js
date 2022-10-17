@@ -26,7 +26,7 @@ function App() {
       <Router>
         <Layout>
           <Switch>
-            <Route exact path="/">
+            <Route path="/books">
               <Books />
             </Route>
             <Route path="/create">
